@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-My LeetCode solutions in Python.
+my  LC solutions
 
 ## Problems Solved (68)
 
